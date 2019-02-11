@@ -1,0 +1,8 @@
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\MonoAndroid,Version=v7.1.AssemblyAttributes.cs
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\RentalApp.nuget.stamp
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\RentalApp.csprojAssemblyReference.cache
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\libraryimports.cache.stamp
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\res.flag
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\RentalApp.csproj.CoreCompileInputs.cache
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\RentalApp.dll
+C:\Users\phile\Desktop\RentalApp\RentalApp\obj\Debug\71\RentalApp.pdb

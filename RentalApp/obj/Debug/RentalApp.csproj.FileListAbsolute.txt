@@ -1,0 +1,4 @@
+C:\Users\phile\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.csprojResolveAssemblyReference.cache
+C:\Users\phile\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.csproj.CoreCompileInputs.cache
+C:\Users\phile\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.dll
+C:\Users\phile\source\repos\RentalApp\RentalApp\obj\Debug\RentalApp.pdb
